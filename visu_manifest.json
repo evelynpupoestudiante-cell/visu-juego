@@ -1,0 +1,18 @@
+{
+  "name": "VISU · Identificación de especies",
+  "short_name": "VISU",
+  "description": "Juego de identificación de especies para oposiciones de Biología y Geología de Madrid",
+  "start_url": "./visu_juego.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#0f0f1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230f0f1a'/><text y='72' x='50' text-anchor='middle' font-size='64' font-family='system-ui'>⬡</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
